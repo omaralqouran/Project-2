@@ -1,4 +1,2 @@
-# hello-world
-Proof of tutorial
+This is my project2 for webdev
 
-Hi Reader, This is proof that I completed my tortorial for github.com
